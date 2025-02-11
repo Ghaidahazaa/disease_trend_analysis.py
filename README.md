@@ -47,10 +47,22 @@ This chart shows the trends of the most reported diseases from 2020 to 2022.
 - The **highest-incidence diseases** in 2022 were identified.
 - Some diseases have **high public health significance**, requiring targeted prevention strategies.
 
+
+![Unknown](https://github.com/user-attachments/assets/1015b907-f900-4b21-a2f9-9eaf7267511f)
+
+
+
+
+
 ### **3️⃣ Heatmap - Cases per Year**
 
 - The heatmap helps visualize which diseases consistently have high cases.
 - Sudden **spikes or declines** may indicate outbreaks or successful interventions.
+
+
+![Unknown-1](https://github.com/user-attachments/assets/b611bc59-72f3-4b43-96c9-138e11cb4ce5)
+
+
 
 ## 🚀 How to Run the Code
 
