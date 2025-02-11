@@ -26,6 +26,22 @@ The dataset includes yearly disease cases from 2020 to 2022. Key features:
 - The trend analysis shows how the most common diseases evolved over the years.
 - Some diseases show a **steady increase**, while others **declined** due to health interventions.
 
+
+
+## 📊 Top 5 Diseases Trend (2020-2022)
+This chart shows the trends of the most reported diseases from 2020 to 2022.
+
+
+![Unknown](https://github.com/user-attachments/assets/e7cdfb5a-84c5-450d-afc8-7dcfbbd4bb27)
+
+
+
+
+
+
+
+
+
 ### **2️⃣ Top 10 Diseases by Incidence Rate (2022)**
 
 - The **highest-incidence diseases** in 2022 were identified.
