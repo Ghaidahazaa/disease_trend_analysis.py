@@ -1,3 +1,30 @@
+
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/3459834e-2b97-491b-a828-c474418f99b1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Disease Trend Analysis
 
 ## 📌 Project Overview
