@@ -1,5 +1,8 @@
+<img width="842" alt="image" src="https://github.com/user-attachments/assets/a9569d8a-9cc4-449f-bb22-bb4b7933228f" />
 
-<img width="595" alt="image" src="https://github.com/user-attachments/assets/3459834e-2b97-491b-a828-c474418f99b1" />
+
+
+
 
 
 
@@ -69,13 +72,21 @@ This chart shows the trends of the most reported diseases from 2020 to 2022.
 
 
 
+
+
+
 ### **2️⃣ Top 10 Diseases by Incidence Rate (2022)**
 
 - The **highest-incidence diseases** in 2022 were identified.
 - Some diseases have **high public health significance**, requiring targeted prevention strategies.
 
 
-![Unknown](https://github.com/user-attachments/assets/1015b907-f900-4b21-a2f9-9eaf7267511f)
+![Unknown-2](https://github.com/user-attachments/assets/699c0af5-2529-4277-9a49-3b4329e96f64)
+
+
+
+
+
 
 
 
@@ -88,6 +99,11 @@ This chart shows the trends of the most reported diseases from 2020 to 2022.
 
 
 ![Unknown-1](https://github.com/user-attachments/assets/b611bc59-72f3-4b43-96c9-138e11cb4ce5)
+
+
+
+
+
 
 
 
@@ -126,7 +142,7 @@ The script saves visualizations as images in the **charts/** folder.
 ### **3️⃣ Heatmap - Cases per Year**
 
 
-
+ 
 ---
 
 ## 🏆 About This Project
